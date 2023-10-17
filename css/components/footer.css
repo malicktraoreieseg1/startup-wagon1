@@ -1,0 +1,16 @@
+footer {
+    text-align: center;
+    margin-block: 0px;
+    bottom: 0px;
+    position: relative;
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+#About_Us a {
+    color: white;
+    margin: 10px;
+}
+
